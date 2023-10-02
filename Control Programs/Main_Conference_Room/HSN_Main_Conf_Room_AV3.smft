@@ -1,0 +1,12 @@
+<Device Model="AV3" Name="AV3 with card cage">
+   <Network Type="Cresnet" Id="04"/>
+   <Network Type="Ethernet" Id="05">
+      <Device Model="CEN-GWEXER" DeviceId="0F">
+         <Network Type="RF">
+            <Device Model="TST-902" DeviceId="03" Name="TST-902 (EX)"/>
+         </Network>
+      </Device>
+      <Device Model="TSW-760" DeviceId="10"/>
+      <Device Model="HD-MD4X1-4K-E" DeviceId="11" Name="HD-MD4X1-4K-E (Source Sel)"/>
+   </Network>
+</Device>
