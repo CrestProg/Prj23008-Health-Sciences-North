@@ -13,7 +13,7 @@ Hint=Cable_TV_Selection (Smart Object ID=25)
 Code=13
 SGControlType=Dynamic Icon List Horizontal
 SGControlName=Cable_TV_Selection
-GUID=9CF321C5-19F7-4FBA-AB01-738C9F587236
+GUID=ED9F63F4-FDF2-43FE-939F-2BA1C24E1D9D
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_Cable_TV_Selection.ced
 SMWRev=4.02.20
 Expand=expand_random

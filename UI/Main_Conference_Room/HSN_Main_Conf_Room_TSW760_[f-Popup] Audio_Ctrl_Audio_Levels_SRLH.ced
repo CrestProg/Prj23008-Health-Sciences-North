@@ -13,7 +13,7 @@ Hint=Audio_Levels_SRLH (Smart Object ID=20)
 Code=17
 SGControlType=Subpage Reference List Horizontal
 SGControlName=Audio_Levels_SRLH
-GUID=ACDBD6ED-E612-4E1F-852F-546AA1B35E85
+GUID=E68A803F-1C78-4A03-9A0E-7A3727A64D1B
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Audio_Ctrl_Audio_Levels_SRLH.ced
 SMWRev=4.02.20
 Expand=expand_random

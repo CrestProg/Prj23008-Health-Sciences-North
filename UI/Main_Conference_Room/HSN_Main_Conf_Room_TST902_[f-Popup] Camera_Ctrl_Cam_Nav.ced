@@ -13,7 +13,7 @@ Hint=Cam_Nav (Smart Object ID=15)
 Code=3
 SGControlType=DPad
 SGControlName=Cam_Nav
-GUID=B78E8DB0-AA0F-47D3-B776-56E959CDF0A5
+GUID=DA79B234-FFF9-4F09-A874-3A9AB39B6117
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Camera_Ctrl_Cam_Nav.ced
 SMWRev=4.02.19
 Expand=expand_random

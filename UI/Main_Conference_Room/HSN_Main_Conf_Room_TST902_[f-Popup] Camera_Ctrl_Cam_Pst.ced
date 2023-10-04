@@ -13,7 +13,7 @@ Hint=Cam_Pst (Smart Object ID=16)
 Code=2
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Cam_Pst
-GUID=464F8C59-8DFB-4917-93B2-AB631B44A756
+GUID=B1623483-08BC-46A3-A519-52C0EC75F60B
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Camera_Ctrl_Cam_Pst.ced
 SMWRev=4.02.20
 Expand=expand_random

@@ -13,7 +13,7 @@ Hint=Preset_Source (Smart Object ID=43)
 Code=18
 SGControlType=Checkbox List Vertical
 SGControlName=Preset_Source
-GUID=6031190D-A12F-4A85-9E6B-B98633D88740
+GUID=78B8E002-0C0C-4D35-AB28-1CC982BEC128
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Room_Controls_Preset_Source.ced
 SMWRev=4.02.19
 Expand=expand_random

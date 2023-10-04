@@ -13,7 +13,7 @@ Hint=CATV_NAV (Smart Object ID=27)
 Code=8
 SGControlType=DPad
 SGControlName=CATV_NAV
-GUID=C1280EFD-8BF0-451F-93BA-FEC34430850A
+GUID=7F6EA638-1E43-4451-9BBB-5852FFADEB8C
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Cable_TV_Ctrl_CATV_NAV.ced
 SMWRev=4.02.19
 Expand=expand_random

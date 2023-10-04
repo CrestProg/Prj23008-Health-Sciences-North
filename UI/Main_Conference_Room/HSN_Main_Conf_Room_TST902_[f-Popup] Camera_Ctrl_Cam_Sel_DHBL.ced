@@ -13,7 +13,7 @@ Hint=Cam_Sel_DHBL (Smart Object ID=17)
 Code=4
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Cam_Sel_DHBL
-GUID=4B096169-74E8-4A7C-983E-8411803745F3
+GUID=2A673DE5-C7FA-4D6C-9A99-149475719777
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Camera_Ctrl_Cam_Sel_DHBL.ced
 SMWRev=4.02.20
 Expand=expand_random

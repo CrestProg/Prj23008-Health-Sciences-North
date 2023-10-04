@@ -13,7 +13,7 @@ Hint=Display_Ctrl_SRL (Smart Object ID=21)
 Code=20
 SGControlType=Subpage Reference List Horizontal
 SGControlName=Display_Ctrl_SRL
-GUID=71570B31-1A8E-46F2-99D3-E5DFE0E5E906
+GUID=CE323313-2EA0-4F00-896C-89E69FCC846F
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Display_Controls_Display_Ctrl_SRL.ced
 SMWRev=4.02.20
 Expand=expand_random

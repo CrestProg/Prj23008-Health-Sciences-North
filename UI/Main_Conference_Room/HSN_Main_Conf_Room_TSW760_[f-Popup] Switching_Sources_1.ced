@@ -13,7 +13,7 @@ Hint=Sources_1 (Smart Object ID=5)
 Code=5
 SGControlType=Dynamic Button List Vertical
 SGControlName=Sources_1
-GUID=88C8D380-0067-4DD7-930A-E004872FD48B
+GUID=8F14239D-9DFF-41C5-A4BE-ED3AB97850C6
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Switching_Sources_1.ced
 SMWRev=4.02.20
 Expand=expand_random

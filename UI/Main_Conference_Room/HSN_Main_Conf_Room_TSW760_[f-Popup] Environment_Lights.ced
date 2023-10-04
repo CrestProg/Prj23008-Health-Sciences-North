@@ -13,7 +13,7 @@ Hint=Lights (Smart Object ID=37)
 Code=16
 SGControlType=Dynamic Button List Vertical
 SGControlName=Lights
-GUID=94CD662D-9A13-430A-A182-1B22C228275D
+GUID=35B42730-573B-46BE-95CF-8030C12950FB
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Environment_Lights.ced
 SMWRev=4.02.20
 Expand=expand_random

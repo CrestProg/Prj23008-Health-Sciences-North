@@ -13,7 +13,7 @@ Hint=NavMenu-MainPg (Smart Object ID=1)
 Code=1
 SGControlType=Dynamic Button List Horizontal
 SGControlName=NavMenu-MainPg
-GUID=8EC4B47E-D5F5-4E88-840B-55831B2F6B22
+GUID=D4B6ECE4-0CCE-41DD-BD04-EEB56AD763AE
 SmplCName=HSN_Main_Conf_Room_TST902_0-Home_NavMenu-MainPg.ced
 SMWRev=4.02.20
 Expand=expand_random

@@ -4,13 +4,13 @@ Sgntr=SGD
 RelVrs=3
 VTProeVer=6.2.02
 Schema=1
-CRCGUID=438336FF-9F40-47CD-A7DF-014F44D608F7
+CRCGUID=62CEBC66-597F-452F-AFF3-E8D84DAFDE78
 ]
 ;================================================================================
 [
 ObjTp=Hd
 ProjectFile=HSN_Main_Conf_Room_TST902.vtp
-VtpGuid=2999D9D1-E057-430B-A1AC-4B3D3A339DF7
+VtpGuid=8D9B63C0-32DB-4A18-BD15-6EBCA17275CD
 ]
 ;================================================================================
 [
@@ -20,7 +20,7 @@ Hint=NavMenu-MainPg (Smart Object ID=1)
 Code=1
 SGControlType=Dynamic Button List Horizontal
 SGControlName=NavMenu-MainPg
-GUID=8EC4B47E-D5F5-4E88-840B-55831B2F6B22
+GUID=D4B6ECE4-0CCE-41DD-BD04-EEB56AD763AE
 SmplCName=HSN_Main_Conf_Room_TST902_0-Home_NavMenu-MainPg.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -397,7 +397,7 @@ Hint=Cam_Pst (Smart Object ID=16)
 Code=2
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Cam_Pst
-GUID=464F8C59-8DFB-4917-93B2-AB631B44A756
+GUID=B1623483-08BC-46A3-A519-52C0EC75F60B
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Camera_Ctrl_Cam_Pst.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -798,7 +798,7 @@ Hint=Cam_Nav (Smart Object ID=15)
 Code=3
 SGControlType=DPad
 SGControlName=Cam_Nav
-GUID=B78E8DB0-AA0F-47D3-B776-56E959CDF0A5
+GUID=DA79B234-FFF9-4F09-A874-3A9AB39B6117
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Camera_Ctrl_Cam_Nav.ced
 SMWRev=4.02.19
 Expand=expand_random
@@ -875,7 +875,7 @@ Hint=Cam_Sel_DHBL (Smart Object ID=17)
 Code=4
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Cam_Sel_DHBL
-GUID=4B096169-74E8-4A7C-983E-8411803745F3
+GUID=2A673DE5-C7FA-4D6C-9A99-149475719777
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Camera_Ctrl_Cam_Sel_DHBL.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -1180,7 +1180,7 @@ Hint=Sources_1 (Smart Object ID=5)
 Code=5
 SGControlType=Dynamic Button List Vertical
 SGControlName=Sources_1
-GUID=88C8D380-0067-4DD7-930A-E004872FD48B
+GUID=FAE9DB69-6F94-453E-9CFF-07D015B962C1
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Switching_Sources_1.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -1677,7 +1677,7 @@ Hint=Destination_1 (Smart Object ID=6)
 Code=6
 SGControlType=Dynamic Icon List Horizontal
 SGControlName=Destination_1
-GUID=043820FB-9CB7-48CA-98B8-345F3A30A9F5
+GUID=35068082-6060-479B-8D17-27A3C420BED6
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Switching_Destination_1.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -2030,7 +2030,7 @@ Hint=Audio_Conf_KeyPad (Smart Object ID=10)
 Code=7
 SGControlType=Simple Keypad
 SGControlName=Audio_Conf_KeyPad
-GUID=44FAD9EF-5184-4D5C-8BDF-349CBD24EF1B
+GUID=11FAE1F6-6BA2-42B4-9FAB-AE749CE85532
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Audio_Conf_Audio_Conf_KeyPad.ced
 SMWRev=4.02.19
 Expand=expand_random
@@ -2135,7 +2135,7 @@ Hint=CATV_NAV (Smart Object ID=27)
 Code=8
 SGControlType=DPad
 SGControlName=CATV_NAV
-GUID=C1280EFD-8BF0-451F-93BA-FEC34430850A
+GUID=7CBA82CB-62E2-48E9-BF73-5576722AABB5
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_CATV_NAV.ced
 SMWRev=4.02.19
 Expand=expand_random
@@ -2212,7 +2212,7 @@ Hint=CATV_Presets (Smart Object ID=30)
 Code=9
 SGControlType=Dynamic Button List Horizontal
 SGControlName=CATV_Presets
-GUID=D82E6104-A35E-43DD-8B57-8F98CAC4AE85
+GUID=2153D565-F651-4940-9866-1452F47C5F91
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_CATV_Presets.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -2589,7 +2589,7 @@ Hint=Simple Keypad (Smart Object ID=28)
 Code=10
 SGControlType=Simple Keypad
 SGControlName=Simple Keypad
-GUID=A168209A-A014-4A40-8087-1D1C4D14B2AD
+GUID=5ACD0337-9B2E-46D7-926F-B628957D1B4D
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_Simple Keypad.ced
 SMWRev=4.02.19
 Expand=expand_random
@@ -2694,7 +2694,7 @@ Hint=CATV_Remote_Btns_2 (Smart Object ID=29)
 Code=11
 SGControlType=Dynamic Button List Vertical
 SGControlName=CATV_Remote_Btns_2
-GUID=67F3D69C-7033-4192-84C7-B42C6A6C42FD
+GUID=4F48E9BB-A652-4D18-88A6-4951699288EA
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_CATV_Remote_Btns_2.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -3047,7 +3047,7 @@ Hint=CATV_Remote_Btns_1 (Smart Object ID=26)
 Code=12
 SGControlType=Dynamic Button List Vertical
 SGControlName=CATV_Remote_Btns_1
-GUID=703596AA-CF61-4DEC-B64F-52D88750DEB2
+GUID=308A9B8C-9212-452E-A0CA-8B4B840F8153
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_CATV_Remote_Btns_1.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -3400,7 +3400,7 @@ Hint=Cable_TV_Selection (Smart Object ID=25)
 Code=13
 SGControlType=Dynamic Icon List Horizontal
 SGControlName=Cable_TV_Selection
-GUID=9CF321C5-19F7-4FBA-AB01-738C9F587236
+GUID=ED9F63F4-FDF2-43FE-939F-2BA1C24E1D9D
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_Cable_TV_Selection.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -3705,7 +3705,7 @@ Hint=Blinds (Smart Object ID=35)
 Code=14
 SGControlType=Dynamic Button List Vertical
 SGControlName=Blinds
-GUID=F7EAE52D-FC53-43CA-A5F6-B0DD3926D677
+GUID=28C6785A-9460-48AD-B26C-6454E0790BB8
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Environment_Blinds.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -4034,7 +4034,7 @@ Hint=Shades (Smart Object ID=36)
 Code=15
 SGControlType=Dynamic Button List Vertical
 SGControlName=Shades
-GUID=9B8E4930-FF3E-4CD6-B395-1B78211B02CF
+GUID=58881E2B-FC5C-466E-89BD-C1FE1CB54FB8
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Environment_Shades.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -4363,7 +4363,7 @@ Hint=Lights (Smart Object ID=37)
 Code=16
 SGControlType=Dynamic Button List Vertical
 SGControlName=Lights
-GUID=94CD662D-9A13-430A-A182-1B22C228275D
+GUID=DE106AFD-2F59-48E9-954F-43AFAA5A7E12
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Environment_Lights.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -4740,7 +4740,7 @@ Hint=Audio_Levels_SRLH (Smart Object ID=20)
 Code=17
 SGControlType=Subpage Reference List Horizontal
 SGControlName=Audio_Levels_SRLH
-GUID=ACDBD6ED-E612-4E1F-852F-546AA1B35E85
+GUID=EA858BD7-E42A-4467-BDA2-6B0D31AC81D4
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Audio_Ctrl_Audio_Levels_SRLH.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -5613,7 +5613,7 @@ Hint=Preset_Source (Smart Object ID=43)
 Code=18
 SGControlType=Checkbox List Vertical
 SGControlName=Preset_Source
-GUID=6031190D-A12F-4A85-9E6B-B98633D88740
+GUID=78B8E002-0C0C-4D35-AB28-1CC982BEC128
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Room_Controls_Preset_Source.ced
 SMWRev=4.02.19
 Expand=expand_random
@@ -5742,7 +5742,7 @@ Hint=Room_Presets (Smart Object ID=41)
 Code=19
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Room_Presets
-GUID=E0D976E7-65E5-4C9F-9AD4-4C6567536841
+GUID=B2A8C3C1-1E1E-4602-A122-9C7FF01E1B2C
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Room_Controls_Room_Presets.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -6119,7 +6119,7 @@ Hint=Display_Ctrl_SRL (Smart Object ID=21)
 Code=20
 SGControlType=Subpage Reference List Horizontal
 SGControlName=Display_Ctrl_SRL
-GUID=71570B31-1A8E-46F2-99D3-E5DFE0E5E906
+GUID=CE323313-2EA0-4F00-896C-89E69FCC846F
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Display_Controls_Display_Ctrl_SRL.ced
 SMWRev=4.02.20
 Expand=expand_random

@@ -13,7 +13,7 @@ Hint=CATV_Presets (Smart Object ID=30)
 Code=9
 SGControlType=Dynamic Button List Horizontal
 SGControlName=CATV_Presets
-GUID=D82E6104-A35E-43DD-8B57-8F98CAC4AE85
+GUID=BD8BB69C-7F6E-4C33-B2E4-3F9D066D6450
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Cable_TV_Ctrl_CATV_Presets.ced
 SMWRev=4.02.20
 Expand=expand_random

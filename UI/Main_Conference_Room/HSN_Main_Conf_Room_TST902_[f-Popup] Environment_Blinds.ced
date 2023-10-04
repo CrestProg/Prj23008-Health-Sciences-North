@@ -13,7 +13,7 @@ Hint=Blinds (Smart Object ID=35)
 Code=14
 SGControlType=Dynamic Button List Vertical
 SGControlName=Blinds
-GUID=F7EAE52D-FC53-43CA-A5F6-B0DD3926D677
+GUID=28C6785A-9460-48AD-B26C-6454E0790BB8
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Environment_Blinds.ced
 SMWRev=4.02.20
 Expand=expand_random

@@ -13,7 +13,7 @@ Hint=CATV_Remote_Btns_2 (Smart Object ID=29)
 Code=11
 SGControlType=Dynamic Button List Vertical
 SGControlName=CATV_Remote_Btns_2
-GUID=67F3D69C-7033-4192-84C7-B42C6A6C42FD
+GUID=4F48E9BB-A652-4D18-88A6-4951699288EA
 SmplCName=HSN_Main_Conf_Room_TST902_[f-Popup] Cable_TV_Ctrl_CATV_Remote_Btns_2.ced
 SMWRev=4.02.20
 Expand=expand_random

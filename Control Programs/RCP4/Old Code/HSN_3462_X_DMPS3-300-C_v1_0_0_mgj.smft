@@ -1,0 +1,9 @@
+<Device Model="DMPS3-300-C.">
+   <Network Type="Cresnet" Id="06">
+      <Device Model="C2N-IO" DeviceId="A6" Name="CAMERA 1"/>
+      <Device Model="C2N-IO" DeviceId="A7" Name="CAMERA 2"/>
+   </Network>
+   <Network Type="Ethernet" Id="07">
+      <Device Model="TSW-1060" DeviceId="03"/>
+   </Network>
+</Device>

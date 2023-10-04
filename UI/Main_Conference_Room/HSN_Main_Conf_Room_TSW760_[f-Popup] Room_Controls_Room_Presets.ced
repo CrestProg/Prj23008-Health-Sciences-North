@@ -13,7 +13,7 @@ Hint=Room_Presets (Smart Object ID=41)
 Code=19
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Room_Presets
-GUID=E0D976E7-65E5-4C9F-9AD4-4C6567536841
+GUID=35820391-7DB7-4DA7-AFE6-035074CAB98D
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Room_Controls_Room_Presets.ced
 SMWRev=4.02.20
 Expand=expand_random

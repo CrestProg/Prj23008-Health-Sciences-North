@@ -10,10 +10,10 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=HSN_Main_Conf_Room_TSW760_[f-Popup] Camera_Ctrl_Cam_Sel_DHBL.ced
 Hint=Cam_Sel_DHBL (Smart Object ID=17)
-Code=4
+Code=3
 SGControlType=Dynamic Button List Horizontal
 SGControlName=Cam_Sel_DHBL
-GUID=4B096169-74E8-4A7C-983E-8411803745F3
+GUID=3A80ED5A-C93B-4E73-8B77-040A138E7E04
 SmplCName=HSN_Main_Conf_Room_TSW760_[f-Popup] Camera_Ctrl_Cam_Sel_DHBL.ced
 SMWRev=4.02.20
 Expand=expand_random
@@ -284,14 +284,14 @@ OutputList3SigType4014=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=4
-CedH=4
+Pp1=3
+CedH=3
 SmartObjId=17d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=4
+H=3
 Tp=1
 HD=TRUE
 DV=17d
@@ -304,7 +304,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=4
+H=3
 Name=HSN_Main_Conf_Room_TSW760_[f-Popup] Camera_Ctrl_Cam_Sel_DHBL.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
