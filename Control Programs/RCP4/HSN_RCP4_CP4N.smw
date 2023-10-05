@@ -1619,6 +1619,8 @@ Mx1=0
 ObjTp=Et
 H=1
 DvH=585
+IPM=255.255.255.0
+IPA=192.168.1.2
 ]
 [
 ObjTp=Sm
