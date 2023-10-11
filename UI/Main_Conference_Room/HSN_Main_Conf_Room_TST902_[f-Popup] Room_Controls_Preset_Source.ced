@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=HSN_Main_Conf_Room_TST902_[f-Popup] Room_Controls_Preset_Source.ced
 Hint=Preset_Source (Smart Object ID=43)
-Code=18
+Code=19
 SGControlType=Checkbox List Vertical
 SGControlName=Preset_Source
 GUID=78B8E002-0C0C-4D35-AB28-1CC982BEC128
@@ -108,14 +108,14 @@ OutputList3SigType6=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=18
-CedH=18
+Pp1=19
+CedH=19
 SmartObjId=43d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=18
+H=19
 Tp=1
 HD=TRUE
 DV=43d
@@ -128,7 +128,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=18
+H=19
 Name=HSN_Main_Conf_Room_TST902_[f-Popup] Room_Controls_Preset_Source.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.

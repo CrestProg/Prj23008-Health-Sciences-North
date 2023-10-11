@@ -7,6 +7,7 @@
          </Network>
       </Device>
       <Device Model="TSW-760" DeviceId="10"/>
-      <Device Model="HD-MD4X1-4K-E" DeviceId="11" Name="HD-MD4X1-4K-E (Source Sel)"/>
+      <Device Model="Core3 UI XPanel" DeviceId="11" Name="XPanel 2.0 Smart Graphics"/>
+      <Device Model="HD-MD4X1-4K-E" DeviceId="12" Name="HD-MD4X1-4K-E (Source Sel)"/>
    </Network>
 </Device>

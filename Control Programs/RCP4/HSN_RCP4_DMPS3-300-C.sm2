@@ -34773,8 +34773,10 @@ P1=3
 P2=33
 P3=0
 P4=1
+Plb4=Channel 1
 P5=01
 P6=54
+Plb6=Telco Transmit
 ]
 [
 ObjTp=Sm
@@ -34914,12 +34916,13 @@ ObjVer=1
 SmVr=1194
 PrH=592
 CF=2
-n1I=2
+n1I=3
 n1O=1
 Cmn1=hangup/reject\\
-mI=2
+mI=3
 I1=83
 I2=1254
+I3=207
 mO=1
 tO=1
 O1=1253
@@ -35607,8 +35610,8 @@ Plb3=ID0
 P4=1
 Plb4=Channel 1
 P5=01
-P6=49
-Plb6=Input
+P6=4F
+Plb6=Output
 ]
 [
 ObjTp=Sm

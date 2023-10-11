@@ -52,6 +52,7 @@ DvVr=1194
 Ad=00
 RelStat=Release
 ProdLine=Digital Media
+DbH=11
 mC=14
 C1=3
 C2=7
@@ -3385,6 +3386,15 @@ Whc=3
 Mnf=Crestron
 Mdl=DMPS3 DM 3
 Tpe=DMPS3 DM 3
+]
+[
+ObjTp=Db
+H=11
+DvH=2
+Whc=3
+Mnf=Crestron
+Mdl=DMPS3-300-C.
+Tpe=DMC3-300-C. Control Processor
 ]
 [
 ObjTp=Cs
@@ -34766,15 +34776,17 @@ tO=5
 O1=9
 O2=29
 O3=1131
-O4=1131
+O4=1246
 O5=1256
 mP=6
 P1=3
 P2=33
 P3=0
 P4=1
+Plb4=Channel 1
 P5=01
 P6=54
+Plb6=Telco Transmit
 ]
 [
 ObjTp=Sm
@@ -35586,7 +35598,7 @@ mI=8
 I1=26
 I2=26
 I3=1131
-I4=1131
+I4=1246
 I5=26
 I6=9
 I7=26
@@ -35608,8 +35620,8 @@ Plb3=ID0
 P4=1
 Plb4=Channel 1
 P5=01
-P6=49
-Plb6=Input
+P6=4F
+Plb6=Output
 ]
 [
 ObjTp=Sm
@@ -42523,6 +42535,11 @@ ObjTp=Sg
 H=1245
 Nm=from_dsp_processor
 SgTp=4
+]
+[
+ObjTp=Sg
+H=1246
+Nm=mics_main_mute_btn_off_fb
 ]
 [
 ObjTp=Sg

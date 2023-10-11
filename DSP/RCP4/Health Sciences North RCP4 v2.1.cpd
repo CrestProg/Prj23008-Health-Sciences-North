@@ -102,11 +102,11 @@
 					<LastPrgmString>0</LastPrgmString>
 					<NetConfig class_id="14" tracking_level="0" version="200">
 						<DHCP>0</DHCP>
-						<Addr>288252938</Addr>
+						<Addr>100772032</Addr>
 						<Subnet>16777215</Subnet>
-						<Gateway>19817482</Gateway>
+						<Gateway>16885952</Gateway>
 						<DNS>1</DNS>
-						<DNSAddr1>416244746</DNSAddr1>
+						<DNSAddr1>134744072</DNSAddr1>
 						<DNSAddr2>365913098</DNSAddr2>
 						<DomainName>hrsrh.neo.local</DomainName>
 					</NetConfig>
@@ -118,7 +118,7 @@
 					<HostDSPDate>05/02/2014 15:59:24</HostDSPDate>
 					<SatDSPDate>01/21/2011 14:08:40</SatDSPDate>
 					<TelcoDSPDate>10/08/2009 10:29:47</TelcoDSPDate>
-					<FPGAVer>07/01/14 07:00</FPGAVer>
+					<FPGAVer>07/01/14 01:00</FPGAVer>
 					<CtrlMaster>2</CtrlMaster>
 					<LcdContrast>32</LcdContrast>
 					<AMXDuet>0</AMXDuet>
@@ -146,9 +146,9 @@
 						<AdaptVolRefGrp>3</AdaptVolRefGrp>
 						<Energy>0</Energy>
 					</PowerAmpCommon>
-					<NameServerLastIPAddr>288252938</NameServerLastIPAddr>
+					<NameServerLastIPAddr>100772032</NameServerLastIPAddr>
 					<AmpDSPDate></AmpDSPDate>
-					<LocatorDate>20090803153013</LocatorDate>
+					<LocatorDate>20150317135854</LocatorDate>
 					<VlanEnabled>0</VlanEnabled>
 					<VlanPriority>0</VlanPriority>
 					<QosPrecedence>5</QosPrecedence>
@@ -5459,8 +5459,8 @@
 					<AutoDisconnect>3</AutoDisconnect>
 					<HookLength>250</HookLength>
 					<LastSpeedDial>0</LastSpeedDial>
-					<TelcoEnable>1</TelcoEnable>
-					<LastNumber>916478014646</LastNumber>
+					<TelcoEnable>0</TelcoEnable>
+					<LastNumber>94168588985</LastNumber>
 					<LevelControl>1</LevelControl>
 					<LocalNumber></LocalNumber>
 					<ClearEffect>1</ClearEffect>
@@ -5680,7 +5680,7 @@
 							<Size>58</Size>
 							<Label>ROOM_AUDIO</Label>
 							<Mute>0</Mute>
-							<Gain>-800</Gain>
+							<Gain>-600</Gain>
 							<Max>1050</Max>
 							<Min>-6500</Min>
 							<Delay>0</Delay>
@@ -5873,7 +5873,7 @@
 					</Version>
 					<TimeOutMeter>
 						<Channel>1</Channel>
-						<Group>3</Group>
+						<Group>1</Group>
 						<Position>2</Position>
 					</TimeOutMeter>
 					<FrontPanelLock>0</FrontPanelLock>
@@ -5886,12 +5886,12 @@
 					<LastPreset>0</LastPreset>
 					<LastPrgmString>0</LastPrgmString>
 					<NetConfig>
-						<DHCP>1</DHCP>
-						<Addr>0</Addr>
-						<Subnet>0</Subnet>
-						<Gateway>0</Gateway>
-						<DNS>0</DNS>
-						<DNSAddr1>0</DNSAddr1>
+						<DHCP>0</DHCP>
+						<Addr>83994816</Addr>
+						<Subnet>16777215</Subnet>
+						<Gateway>16885952</Gateway>
+						<DNS>1</DNS>
+						<DNSAddr1>134744072</DNSAddr1>
 						<DNSAddr2>0</DNSAddr2>
 						<DomainName></DomainName>
 					</NetConfig>
@@ -5903,7 +5903,7 @@
 					<HostDSPDate>05/02/2014 15:59:24</HostDSPDate>
 					<SatDSPDate>01/21/2011 14:08:40</SatDSPDate>
 					<TelcoDSPDate>10/08/2009 10:29:47</TelcoDSPDate>
-					<FPGAVer>07/01/14 </FPGAVer>
+					<FPGAVer>07/01/14 01:00</FPGAVer>
 					<CtrlMaster>2</CtrlMaster>
 					<LcdContrast>32</LcdContrast>
 					<AMXDuet>0</AMXDuet>
@@ -5931,9 +5931,9 @@
 						<AdaptVolRefGrp>3</AdaptVolRefGrp>
 						<Energy>0</Energy>
 					</PowerAmpCommon>
-					<NameServerLastIPAddr>0</NameServerLastIPAddr>
+					<NameServerLastIPAddr>83994816</NameServerLastIPAddr>
 					<AmpDSPDate></AmpDSPDate>
-					<LocatorDate>20090803153013</LocatorDate>
+					<LocatorDate>20150317135854</LocatorDate>
 					<VlanEnabled>0</VlanEnabled>
 					<VlanPriority>0</VlanPriority>
 					<QosPrecedence>5</QosPrecedence>

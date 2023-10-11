@@ -10,7 +10,7 @@ VTProeVer=6.2.02
 ObjTp=Symbol
 Name=HSN_Main_Conf_Room_TST902_[f-Popup] Display_Controls_Display_Ctrl_SRL.ced
 Hint=Display_Ctrl_SRL (Smart Object ID=21)
-Code=20
+Code=21
 SGControlType=Subpage Reference List Horizontal
 SGControlName=Display_Ctrl_SRL
 GUID=CE323313-2EA0-4F00-896C-89E69FCC846F
@@ -356,14 +356,14 @@ OutputList3SigType17=Serial
 ParamCue1=SmartObjectId
 ParamSigType1=Constant
 MPp=1
-Pp1=20
-CedH=20
+Pp1=21
+CedH=21
 SmartObjId=21d
 ]
 ; Parameter Properties for Smart Object ID
 [
 ObjTp=Dp
-H=20
+H=21
 Tp=1
 HD=TRUE
 DV=21d
@@ -376,7 +376,7 @@ Sgn=0
 ; Smart Objects Definition section
 [
 ObjTp=CED
-H=20
+H=21
 Name=HSN_Main_Conf_Room_TST902_[f-Popup] Display_Controls_Display_Ctrl_SRL.ced
 ;Cedver is the version of the Smart Graphics control, not the CED file format.
 ;If the control definition changes, increment this.
