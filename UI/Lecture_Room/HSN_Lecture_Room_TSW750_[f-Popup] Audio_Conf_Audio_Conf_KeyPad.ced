@@ -13,7 +13,7 @@ Hint=Audio_Conf_KeyPad (Smart Object ID=10)
 Code=7
 SGControlType=Simple Keypad
 SGControlName=Audio_Conf_KeyPad
-GUID=3AA892F3-820E-4E3B-A616-89C6F6322A7C
+GUID=8CE09CCC-4C48-49CB-82D1-FFE20249C616
 SmplCName=HSN_Lecture_Room_TSW750_[f-Popup] Audio_Conf_Audio_Conf_KeyPad.ced
 SMWRev=4.02.19
 Expand=expand_random

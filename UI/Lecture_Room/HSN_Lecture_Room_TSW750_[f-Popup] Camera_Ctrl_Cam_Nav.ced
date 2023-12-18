@@ -13,7 +13,7 @@ Hint=Cam_Nav (Smart Object ID=15)
 Code=3
 SGControlType=DPad
 SGControlName=Cam_Nav
-GUID=50BD3033-61C4-4F89-8411-5C3607A65FC5
+GUID=94045DDF-2596-41BF-9492-55346B19149E
 SmplCName=HSN_Lecture_Room_TSW750_[f-Popup] Camera_Ctrl_Cam_Nav.ced
 SMWRev=4.02.19
 Expand=expand_random

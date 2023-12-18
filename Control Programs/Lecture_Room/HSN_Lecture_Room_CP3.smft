@@ -1,0 +1,17 @@
+<Device Model="CP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-IO" DeviceId="A5"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="CEN-GWEXER" DeviceId="0F">
+         <Network Type="RF">
+            <Device Model="TST-902" DeviceId="03" Name="Operator"/>
+         </Network>
+      </Device>
+      <Device Model="Core3 UI XPanel" DeviceId="10" Name="TST-902 - XPanel 2.0 Simulator"/>
+      <Device Model="TSW-750" DeviceId="11" Name="Room_A"/>
+      <Device Model="TSW-750" DeviceId="12" Name="Room_B"/>
+      <Device Model="TSW-750" DeviceId="13" Name="Room_C"/>
+      <Device Model="DM-MD8x8-CPU3" DeviceId="14"/>
+   </Network>
+</Device>
