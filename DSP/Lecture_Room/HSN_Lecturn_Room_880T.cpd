@@ -5,9 +5,9 @@
 	<SiteInfo class_id="1" tracking_level="0" version="200">
 		<ProtocolVersion>4.8.5.0</ProtocolVersion>
 		<Name>HSN-LECTURE-ROOM</Name>
-		<Author>Devesh</Author>
+		<Author>Solotech</Author>
 		<Description></Description>
-		<TCP_Address></TCP_Address>
+		<TCP_Address>192.168.6.70</TCP_Address>
 		<TCP_Port>23</TCP_Port>
 		<FilePassword class_id="2" tracking_level="0" version="0">
 			<hexbinary></hexbinary>
@@ -86,7 +86,7 @@
 				<UnitValues class_id="13" tracking_level="0" version="200">
 					<Size>542</Size>
 					<Name>CONVERGE880T-0</Name>
-					<SerialNo>4294967295</SerialNo>
+					<SerialNo>88901324</SerialNo>
 					<DeviceID>0</DeviceID>
 					<AudioMaster>2</AudioMaster>
 					<Version class_id="14" tracking_level="0" version="0">
@@ -105,28 +105,28 @@
 					<SiggenTout>0</SiggenTout>
 					<AuxBaud>57600</AuxBaud>
 					<AuxFlow>1</AuxFlow>
-					<LastMacro>2</LastMacro>
+					<LastMacro>1</LastMacro>
 					<LastPreset>0</LastPreset>
 					<LastPrgmString>0</LastPrgmString>
 					<NetConfig class_id="16" tracking_level="0" version="200">
-						<DHCP>1</DHCP>
-						<Addr>0</Addr>
-						<Subnet>0</Subnet>
-						<Gateway>0</Gateway>
+						<DHCP>0</DHCP>
+						<Addr>1174841536</Addr>
+						<Subnet>16777215</Subnet>
+						<Gateway>17213632</Gateway>
 						<DNS>0</DNS>
 						<DNSAddr1>0</DNSAddr1>
 						<DNSAddr2>0</DNSAddr2>
 						<DomainName></DomainName>
 					</NetConfig>
-					<MacAddress>FF-FF-FF-FF-FF-FF</MacAddress>
+					<MacAddress>00-06-24-0C-DF-EF</MacAddress>
 					<DictionaryVer>9</DictionaryVer>
 					<TelnetEnable>1</TelnetEnable>
 					<TelnetPort>23</TelnetPort>
 					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
-					<TelcoDSPDate></TelcoDSPDate>
-					<FPGAVer></FPGAVer>
+					<HostDSPDate>05/02/2014 15:59:24</HostDSPDate>
+					<SatDSPDate>01/21/2011 14:08:40</SatDSPDate>
+					<TelcoDSPDate>10/08/2009 10:29:47</TelcoDSPDate>
+					<FPGAVer>07/01/14 </FPGAVer>
 					<CtrlMaster>2</CtrlMaster>
 					<LcdContrast>32</LcdContrast>
 					<AMXDuet>0</AMXDuet>
@@ -156,7 +156,7 @@
 					</PowerAmpCommon>
 					<NameServerLastIPAddr>0</NameServerLastIPAddr>
 					<AmpDSPDate></AmpDSPDate>
-					<LocatorDate></LocatorDate>
+					<LocatorDate>20150317135854</LocatorDate>
 					<VlanEnabled>0</VlanEnabled>
 					<VlanPriority>0</VlanPriority>
 					<QosPrecedence>5</QosPrecedence>
@@ -164,7 +164,7 @@
 					<VlanID>1</VlanID>
 					<MatrixType>0</MatrixType>
 					<NumDigitalMics>0</NumDigitalMics>
-					<GlinkOrder>0</GlinkOrder>
+					<GlinkOrder>3</GlinkOrder>
 					<ProgramStrings class_id="20" tracking_level="0" version="0">
 						<count>0</count>
 						<item_version>0</item_version>
@@ -323,18 +323,226 @@
 					</item>
 				</VirtualReference>
 				<TimedEvent class_id="27" tracking_level="0" version="0">
-					<count>0</count>
+					<count>10</count>
 					<item_version>0</item_version>
+					<item class_id="28" tracking_level="0" version="0">
+						<first>1</first>
+						<second class_id="29" tracking_level="0" version="200">
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event class_id="30" tracking_level="0" version="0">
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>2</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>3</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>4</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>5</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>6</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>7</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>8</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>9</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
+					<item>
+						<first>10</first>
+						<second>
+							<StartTime>0</StartTime>
+							<EndTime>0</EndTime>
+							<EndOccur>0</EndOccur>
+							<ReoccurWeek>0</ReoccurWeek>
+							<ReoccurDay>0</ReoccurDay>
+							<ReoccurHour>0</ReoccurHour>
+							<ReoccurMin>0</ReoccurMin>
+							<Event>
+								<SBinCmd1>40000000FEFE00000100FF3E00000000</SBinCmd1>
+							</Event>
+							<NumOccur>0</NumOccur>
+						</second>
+					</item>
 				</TimedEvent>
-				<Matrix class_id="28" tracking_level="0" version="200">
+				<Matrix class_id="31" tracking_level="0" version="200">
 					<Rows>43</Rows>
 					<Columns>48</Columns>
-					<Data class_id="29" tracking_level="0" version="0">
-						<count>47</count>
+					<Data class_id="32" tracking_level="0" version="0">
+						<count>65</count>
 						<item_version>0</item_version>
-						<item class_id="30" tracking_level="0" version="0">
+						<item class_id="33" tracking_level="0" version="0">
+							<first>50397697</first>
+							<second class_id="34" tracking_level="0" version="0">
+								<row>0</row>
+								<col>0</col>
+								<UniqueId>50397697</UniqueId>
+								<SrcGroup>3</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>1</DstChannel>
+								<MatrixValues class_id="35" tracking_level="0" version="0">
+									<Gain>0</Gain>
+									<Status>5</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>50397698</first>
+							<second>
+								<row>0</row>
+								<col>1</col>
+								<UniqueId>50397698</UniqueId>
+								<SrcGroup>3</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>2</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>5</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>50397699</first>
+							<second>
+								<row>0</row>
+								<col>2</col>
+								<UniqueId>50397699</UniqueId>
+								<SrcGroup>3</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>3</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>5</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
 							<first>50398721</first>
-							<second class_id="31" tracking_level="0" version="0">
+							<second>
 								<row>0</row>
 								<col>14</col>
 								<UniqueId>50398721</UniqueId>
@@ -342,9 +550,57 @@
 								<SrcChannel>1</SrcChannel>
 								<DstGroup>6</DstGroup>
 								<DstChannel>1</DstChannel>
-								<MatrixValues class_id="32" tracking_level="0" version="0">
+								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>4</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>50463233</first>
+							<second>
+								<row>1</row>
+								<col>0</col>
+								<UniqueId>50463233</UniqueId>
+								<SrcGroup>3</SrcGroup>
+								<SrcChannel>2</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>1</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>5</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>50463234</first>
+							<second>
+								<row>1</row>
+								<col>1</col>
+								<UniqueId>50463234</UniqueId>
+								<SrcGroup>3</SrcGroup>
+								<SrcChannel>2</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>2</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>5</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>50463235</first>
+							<second>
+								<row>1</row>
+								<col>2</col>
+								<UniqueId>50463235</UniqueId>
+								<SrcGroup>3</SrcGroup>
+								<SrcChannel>2</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>3</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>5</Status>
 								</MatrixValues>
 							</second>
 						</item>
@@ -361,54 +617,6 @@
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>4</Status>
-								</MatrixValues>
-							</second>
-						</item>
-						<item>
-							<first>50531329</first>
-							<second>
-								<row>2</row>
-								<col>40</col>
-								<UniqueId>50531329</UniqueId>
-								<SrcGroup>3</SrcGroup>
-								<SrcChannel>3</SrcChannel>
-								<DstGroup>12</DstGroup>
-								<DstChannel>1</DstChannel>
-								<MatrixValues>
-									<Gain>0</Gain>
-									<Status>5</Status>
-								</MatrixValues>
-							</second>
-						</item>
-						<item>
-							<first>50596866</first>
-							<second>
-								<row>3</row>
-								<col>41</col>
-								<UniqueId>50596866</UniqueId>
-								<SrcGroup>3</SrcGroup>
-								<SrcChannel>4</SrcChannel>
-								<DstGroup>12</DstGroup>
-								<DstChannel>2</DstChannel>
-								<MatrixValues>
-									<Gain>0</Gain>
-									<Status>5</Status>
-								</MatrixValues>
-							</second>
-						</item>
-						<item>
-							<first>50662403</first>
-							<second>
-								<row>4</row>
-								<col>42</col>
-								<UniqueId>50662403</UniqueId>
-								<SrcGroup>3</SrcGroup>
-								<SrcChannel>5</SrcChannel>
-								<DstGroup>12</DstGroup>
-								<DstChannel>3</DstChannel>
-								<MatrixValues>
-									<Gain>0</Gain>
-									<Status>5</Status>
 								</MatrixValues>
 							</second>
 						</item>
@@ -557,6 +765,38 @@
 							</second>
 						</item>
 						<item>
+							<first>100729351</first>
+							<second>
+								<row>13</row>
+								<col>6</col>
+								<UniqueId>100729351</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>7</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100729352</first>
+							<second>
+								<row>13</row>
+								<col>7</col>
+								<UniqueId>100729352</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>8</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
 							<first>100730369</first>
 							<second>
 								<row>13</row>
@@ -589,15 +829,47 @@
 							</second>
 						</item>
 						<item>
-							<first>100794885</first>
+							<first>100794884</first>
 							<second>
 								<row>14</row>
-								<col>4</col>
-								<UniqueId>100794885</UniqueId>
+								<col>3</col>
+								<UniqueId>100794884</UniqueId>
 								<SrcGroup>6</SrcGroup>
 								<SrcChannel>2</SrcChannel>
 								<DstGroup>2</DstGroup>
-								<DstChannel>5</DstChannel>
+								<DstChannel>4</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100794887</first>
+							<second>
+								<row>14</row>
+								<col>6</col>
+								<UniqueId>100794887</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>2</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>7</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100794888</first>
+							<second>
+								<row>14</row>
+								<col>7</col>
+								<UniqueId>100794888</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>2</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>8</DstChannel>
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>1</Status>
@@ -621,15 +893,63 @@
 							</second>
 						</item>
 						<item>
-							<first>100860422</first>
+							<first>100798465</first>
+							<second>
+								<row>14</row>
+								<col>13</col>
+								<UniqueId>100798465</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>2</SrcChannel>
+								<DstGroup>16</DstGroup>
+								<DstChannel>1</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100860420</first>
 							<second>
 								<row>15</row>
-								<col>5</col>
-								<UniqueId>100860422</UniqueId>
+								<col>3</col>
+								<UniqueId>100860420</UniqueId>
 								<SrcGroup>6</SrcGroup>
 								<SrcChannel>3</SrcChannel>
 								<DstGroup>2</DstGroup>
-								<DstChannel>6</DstChannel>
+								<DstChannel>4</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100860423</first>
+							<second>
+								<row>15</row>
+								<col>6</col>
+								<UniqueId>100860423</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>3</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>7</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100860424</first>
+							<second>
+								<row>15</row>
+								<col>7</col>
+								<UniqueId>100860424</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>3</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>8</DstChannel>
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>1</Status>
@@ -649,6 +969,22 @@
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>6</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>100864001</first>
+							<second>
+								<row>15</row>
+								<col>13</col>
+								<UniqueId>100864001</UniqueId>
+								<SrcGroup>6</SrcGroup>
+								<SrcChannel>3</SrcChannel>
+								<DstGroup>16</DstGroup>
+								<DstChannel>1</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
 								</MatrixValues>
 							</second>
 						</item>
@@ -893,6 +1229,70 @@
 							</second>
 						</item>
 						<item>
+							<first>118033409</first>
+							<second>
+								<row>8</row>
+								<col>40</col>
+								<UniqueId>118033409</UniqueId>
+								<SrcGroup>7</SrcGroup>
+								<SrcChannel>9</SrcChannel>
+								<DstGroup>12</DstGroup>
+								<DstChannel>1</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>118034433</first>
+							<second>
+								<row>8</row>
+								<col>13</col>
+								<UniqueId>118034433</UniqueId>
+								<SrcGroup>7</SrcGroup>
+								<SrcChannel>9</SrcChannel>
+								<DstGroup>16</DstGroup>
+								<DstChannel>1</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>118098946</first>
+							<second>
+								<row>9</row>
+								<col>41</col>
+								<UniqueId>118098946</UniqueId>
+								<SrcGroup>7</SrcGroup>
+								<SrcChannel>10</SrcChannel>
+								<DstGroup>12</DstGroup>
+								<DstChannel>2</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>118164483</first>
+							<second>
+								<row>10</row>
+								<col>42</col>
+								<UniqueId>118164483</UniqueId>
+								<SrcGroup>7</SrcGroup>
+								<SrcChannel>11</SrcChannel>
+								<DstGroup>12</DstGroup>
+								<DstChannel>3</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
 							<first>201392641</first>
 							<second>
 								<row>39</row>
@@ -902,6 +1302,70 @@
 								<SrcChannel>1</SrcChannel>
 								<DstGroup>2</DstGroup>
 								<DstChannel>1</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>201392642</first>
+							<second>
+								<row>39</row>
+								<col>1</col>
+								<UniqueId>201392642</UniqueId>
+								<SrcGroup>12</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>2</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>201392643</first>
+							<second>
+								<row>39</row>
+								<col>2</col>
+								<UniqueId>201392643</UniqueId>
+								<SrcGroup>12</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>3</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>201392647</first>
+							<second>
+								<row>39</row>
+								<col>6</col>
+								<UniqueId>201392647</UniqueId>
+								<SrcGroup>12</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>7</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>201392648</first>
+							<second>
+								<row>39</row>
+								<col>7</col>
+								<UniqueId>201392648</UniqueId>
+								<SrcGroup>12</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>8</DstChannel>
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>1</Status>
@@ -941,22 +1405,6 @@
 							</second>
 						</item>
 						<item>
-							<first>201458178</first>
-							<second>
-								<row>40</row>
-								<col>1</col>
-								<UniqueId>201458178</UniqueId>
-								<SrcGroup>12</SrcGroup>
-								<SrcChannel>2</SrcChannel>
-								<DstGroup>2</DstGroup>
-								<DstChannel>2</DstChannel>
-								<MatrixValues>
-									<Gain>0</Gain>
-									<Status>1</Status>
-								</MatrixValues>
-							</second>
-						</item>
-						<item>
 							<first>201460738</first>
 							<second>
 								<row>40</row>
@@ -973,31 +1421,15 @@
 							</second>
 						</item>
 						<item>
-							<first>201462786</first>
+							<first>201462785</first>
 							<second>
 								<row>40</row>
-								<col>45</col>
-								<UniqueId>201462786</UniqueId>
+								<col>44</col>
+								<UniqueId>201462785</UniqueId>
 								<SrcGroup>12</SrcGroup>
 								<SrcChannel>2</SrcChannel>
 								<DstGroup>20</DstGroup>
-								<DstChannel>2</DstChannel>
-								<MatrixValues>
-									<Gain>0</Gain>
-									<Status>1</Status>
-								</MatrixValues>
-							</second>
-						</item>
-						<item>
-							<first>201523715</first>
-							<second>
-								<row>41</row>
-								<col>2</col>
-								<UniqueId>201523715</UniqueId>
-								<SrcGroup>12</SrcGroup>
-								<SrcChannel>3</SrcChannel>
-								<DstGroup>2</DstGroup>
-								<DstChannel>3</DstChannel>
+								<DstChannel>1</DstChannel>
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>1</Status>
@@ -1021,15 +1453,15 @@
 							</second>
 						</item>
 						<item>
-							<first>201528323</first>
+							<first>201528321</first>
 							<second>
 								<row>41</row>
-								<col>46</col>
-								<UniqueId>201528323</UniqueId>
+								<col>44</col>
+								<UniqueId>201528321</UniqueId>
 								<SrcGroup>12</SrcGroup>
 								<SrcChannel>3</SrcChannel>
 								<DstGroup>20</DstGroup>
-								<DstChannel>3</DstChannel>
+								<DstChannel>1</DstChannel>
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>1</Status>
@@ -1049,6 +1481,22 @@
 								<MatrixValues>
 									<Gain>0</Gain>
 									<Status>6</Status>
+								</MatrixValues>
+							</second>
+						</item>
+						<item>
+							<first>285278724</first>
+							<second>
+								<row>12</row>
+								<col>3</col>
+								<UniqueId>285278724</UniqueId>
+								<SrcGroup>17</SrcGroup>
+								<SrcChannel>1</SrcChannel>
+								<DstGroup>2</DstGroup>
+								<DstChannel>4</DstChannel>
+								<MatrixValues>
+									<Gain>0</Gain>
+									<Status>1</Status>
 								</MatrixValues>
 							</second>
 						</item>
@@ -1086,11 +1534,11 @@
 						</item>
 					</Data>
 				</Matrix>
-				<Preset class_id="33" tracking_level="0" version="0">
+				<Preset class_id="36" tracking_level="0" version="0">
 					<count>0</count>
 					<item_version>0</item_version>
 				</Preset>
-				<SignalGenerator class_id="34" tracking_level="0" version="200">
+				<SignalGenerator class_id="37" tracking_level="0" version="200">
 					<Channel>1</Channel>
 					<Group>3</Group>
 					<Enable>0</Enable>
@@ -1098,12 +1546,12 @@
 					<Amplitude>-2000</Amplitude>
 					<Frequency>100000</Frequency>
 				</SignalGenerator>
-				<EbusAudioChannel class_id="35" tracking_level="0" version="0">
+				<EbusAudioChannel class_id="38" tracking_level="0" version="0">
 					<count>18</count>
 					<item_version>0</item_version>
-					<item class_id="36" tracking_level="0" version="0">
+					<item class_id="39" tracking_level="0" version="0">
 						<first>14293802221568</first>
-						<second class_id="37" tracking_level="0" version="0">
+						<second class_id="40" tracking_level="0" version="0">
 							<Size>72</Size>
 							<Label>
 								<count>2</count>
@@ -1300,12 +1748,12 @@
 						</second>
 					</item>
 				</EbusAudioChannel>
-				<EbusReferenceChannel class_id="38" tracking_level="0" version="0">
+				<EbusReferenceChannel class_id="41" tracking_level="0" version="0">
 					<count>8</count>
 					<item_version>0</item_version>
-					<item class_id="39" tracking_level="0" version="0">
+					<item class_id="42" tracking_level="0" version="0">
 						<first>14293818998784</first>
-						<second class_id="40" tracking_level="0" version="200">
+						<second class_id="43" tracking_level="0" version="200">
 							<Size>40</Size>
 							<Label>Ebus Ref. 1</Label>
 							<RefChannel>0</RefChannel>
@@ -1353,8 +1801,8 @@
 						<second>
 							<Size>40</Size>
 							<Label>Ebus Ref. 6</Label>
-							<RefChannel>0</RefChannel>
-							<RefGroup>0</RefGroup>
+							<RefChannel>1</RefChannel>
+							<RefGroup>2</RefGroup>
 						</second>
 					</item>
 					<item>
@@ -1362,8 +1810,8 @@
 						<second>
 							<Size>40</Size>
 							<Label>Ebus Ref. 7</Label>
-							<RefChannel>0</RefChannel>
-							<RefGroup>0</RefGroup>
+							<RefChannel>2</RefChannel>
+							<RefGroup>2</RefGroup>
 						</second>
 					</item>
 					<item>
@@ -1371,24 +1819,24 @@
 						<second>
 							<Size>40</Size>
 							<Label>Ebus Ref. 8</Label>
-							<RefChannel>0</RefChannel>
-							<RefGroup>0</RefGroup>
+							<RefChannel>3</RefChannel>
+							<RefGroup>2</RefGroup>
 						</second>
 					</item>
 				</EbusReferenceChannel>
-				<LineInput class_id="41" tracking_level="0" version="0">
+				<LineInput class_id="44" tracking_level="0" version="0">
 					<count>4</count>
 					<item_version>0</item_version>
-					<item class_id="42" tracking_level="0" version="0">
+					<item class_id="45" tracking_level="0" version="0">
 						<first>14293936963584</first>
-						<second class_id="43" tracking_level="0" version="200">
+						<second class_id="46" tracking_level="0" version="200">
 							<Size>196</Size>
-							<Label></Label>
+							<Label>RM-A-PROG</Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
 							<Max>2000</Max>
 							<Min>-6500</Min>
-							<DataBase class_id="44" tracking_level="0" version="200">
+							<DataBase class_id="47" tracking_level="0" version="200">
 								<Type>0</Type>
 								<SubType>0</SubType>
 								<Name></Name>
@@ -1396,7 +1844,7 @@
 								<Model></Model>
 								<SerialNo></SerialNo>
 							</DataBase>
-							<AGCValues class_id="45" tracking_level="0" version="0">
+							<AGCValues class_id="48" tracking_level="0" version="0">
 								<Enable>0</Enable>
 								<Threshold>-25</Threshold>
 								<Target>0</Target>
@@ -1409,7 +1857,7 @@
 						<first>14293937029120</first>
 						<second>
 							<Size>196</Size>
-							<Label></Label>
+							<Label>RM-B-PROG</Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
 							<Max>2000</Max>
@@ -1435,7 +1883,7 @@
 						<first>14293937094656</first>
 						<second>
 							<Size>196</Size>
-							<Label></Label>
+							<Label>RM-C-PROG</Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
 							<Max>2000</Max>
@@ -1484,19 +1932,19 @@
 						</second>
 					</item>
 				</LineInput>
-				<Macro class_id="46" tracking_level="0" version="0">
+				<Macro class_id="49" tracking_level="0" version="0">
 					<count>255</count>
 					<item_version>0</item_version>
-					<item class_id="47" tracking_level="0" version="0">
+					<item class_id="50" tracking_level="0" version="0">
 						<first>14293852553216</first>
-						<second class_id="48" tracking_level="0" version="200">
+						<second class_id="51" tracking_level="0" version="200">
 							<Size>40</Size>
 							<Label>ALL_COMBINED</Label>
-							<Length>70</Length>
+							<Length>120</Length>
 							<Description></Description>
 							<Version>2.0.0</Version>
 							<HexPackets>
-								<count>14</count>
+								<count>24</count>
 								<item_version>0</item_version>
 								<item>400000200D00002700025157020C020200000000</item>
 								<item>400000200D00002700025357030C030200000000</item>
@@ -1512,6 +1960,16 @@
 								<item>400000200D00002700025369030C031400000000</item>
 								<item>400000200D0000270002506A020C011400000001</item>
 								<item>400000200D0000270002516A030C011400000001</item>
+								<item>400000200D00002700024F530103010200000005</item>
+								<item>400000200D000027000250530203010200000005</item>
+								<item>400000200D000027000253520206040200000001</item>
+								<item>400000200D000027000254520306040200000001</item>
+								<item>400000200D000027000254510206050200000000</item>
+								<item>400000200D000027000256510306060200000000</item>
+								<item>400000200D000027000256520206070200000001</item>
+								<item>400000200D000027000257520206080200000001</item>
+								<item>400000200D000027000258520306080200000001</item>
+								<item>400000200D000027000257520306070200000001</item>
 							</HexPackets>
 						</second>
 					</item>
@@ -1520,11 +1978,11 @@
 						<second>
 							<Size>40</Size>
 							<Label>ALL_SEPARATE</Label>
-							<Length>70</Length>
+							<Length>120</Length>
 							<Description></Description>
 							<Version>2.0.0</Version>
 							<HexPackets>
-								<count>14</count>
+								<count>24</count>
 								<item_version>0</item_version>
 								<item>400000200D0000270002505F0206011000000000</item>
 								<item>400000200D0000270002515F0306011000000000</item>
@@ -1540,6 +1998,16 @@
 								<item>400000200D00002700025169030C011400000000</item>
 								<item>400000200D0000270002516A020C021400000001</item>
 								<item>400000200D0000270002536A030C031400000001</item>
+								<item>400000200D00002700024F530103010200000005</item>
+								<item>400000200D000027000250530203010200000005</item>
+								<item>400000200D000027000256510206070200000000</item>
+								<item>400000200D000027000257510206080200000000</item>
+								<item>400000200D000027000258510306080200000000</item>
+								<item>400000200D000027000257510306070200000000</item>
+								<item>400000200D000027000254510306040200000000</item>
+								<item>400000200D000027000253510206040200000000</item>
+								<item>400000200D000027000254520206050200000001</item>
+								<item>400000200D000027000256520306060200000001</item>
 							</HexPackets>
 						</second>
 					</item>
@@ -5086,16 +5554,21 @@
 						</second>
 					</item>
 				</Macro>
-				<Phonebook class_id="49" tracking_level="0" version="0">
-					<count>0</count>
+				<Phonebook class_id="52" tracking_level="0" version="0">
+					<count>1</count>
 					<item_version>200</item_version>
+					<item class_id="53" tracking_level="0" version="200">
+						<Label>Test-DGA</Label>
+						<Number>916478014646</Number>
+						<SpeedDial>1</SpeedDial>
+					</item>
 				</Phonebook>
-				<GatingGroup class_id="50" tracking_level="0" version="0">
+				<GatingGroup class_id="54" tracking_level="0" version="0">
 					<count>10</count>
 					<item_version>0</item_version>
-					<item class_id="51" tracking_level="0" version="0">
+					<item class_id="55" tracking_level="0" version="0">
 						<first>14293785444352</first>
-						<second class_id="52" tracking_level="0" version="200">
+						<second class_id="56" tracking_level="0" version="200">
 							<Size>42</Size>
 							<Label>Group 1</Label>
 							<FirstMicPriority>1</FirstMicPriority>
@@ -5204,16 +5677,16 @@
 						</second>
 					</item>
 				</GatingGroup>
-				<Microphone class_id="53" tracking_level="0" version="0">
+				<Microphone class_id="57" tracking_level="0" version="0">
 					<count>8</count>
 					<item_version>0</item_version>
-					<item class_id="54" tracking_level="0" version="0">
+					<item class_id="58" tracking_level="0" version="0">
 						<first>14293919662080</first>
-						<second class_id="55" tracking_level="0" version="200">
+						<second class_id="59" tracking_level="0" version="200">
 							<Size>225</Size>
-							<Label>WX-MIC-1</Label>
+							<Label>PODIUM</Label>
 							<Mute>0</Mute>
-							<Gain>0</Gain>
+							<Gain>-150</Gain>
 							<Max>2000</Max>
 							<Min>-6500</Min>
 							<DataBase>
@@ -5249,11 +5722,11 @@
 							<EchoCancel>1</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
-							<NCSel>0</NCSel>
+							<NCSel>1</NCSel>
 							<PushToTalk>0</PushToTalk>
 							<PTTThreshold>-9000</PTTThreshold>
-							<CoarseGain>56</CoarseGain>
-							<Filter class_id="56" tracking_level="0" version="0">
+							<CoarseGain>50</CoarseGain>
+							<Filter class_id="60" tracking_level="0" version="0">
 								<count>0</count>
 								<item_version>0</item_version>
 							</Filter>
@@ -5263,9 +5736,9 @@
 						<first>14293919727616</first>
 						<second>
 							<Size>225</Size>
-							<Label>WX-MIC-2</Label>
+							<Label>WIRELESS</Label>
 							<Mute>0</Mute>
-							<Gain>0</Gain>
+							<Gain>-150</Gain>
 							<Max>2000</Max>
 							<Min>-6500</Min>
 							<DataBase>
@@ -5283,7 +5756,7 @@
 								<Attack>200</Attack>
 								<Gain>600</Gain>
 							</AGCValues>
-							<PP>1</PP>
+							<PP>0</PP>
 							<Chairman>0</Chairman>
 							<GRatio>15</GRatio>
 							<GMode>1</GMode>
@@ -5301,10 +5774,10 @@
 							<EchoCancel>1</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
-							<NCSel>0</NCSel>
+							<NCSel>1</NCSel>
 							<PushToTalk>0</PushToTalk>
 							<PTTThreshold>-9000</PTTThreshold>
-							<CoarseGain>56</CoarseGain>
+							<CoarseGain>50</CoarseGain>
 							<Filter>
 								<count>0</count>
 								<item_version>0</item_version>
@@ -5315,7 +5788,7 @@
 						<first>14293919793152</first>
 						<second>
 							<Size>225</Size>
-							<Label>RM-A-PROG</Label>
+							<Label></Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
 							<Max>2000</Max>
@@ -5335,10 +5808,10 @@
 								<Attack>200</Attack>
 								<Gain>600</Gain>
 							</AGCValues>
-							<PP>1</PP>
+							<PP>0</PP>
 							<Chairman>0</Chairman>
 							<GRatio>15</GRatio>
-							<GMode>1</GMode>
+							<GMode>3</GMode>
 							<GHold>30</GHold>
 							<OFFA>1200</OFFA>
 							<Decay>2</Decay>
@@ -5348,15 +5821,15 @@
 							<RefSelectChannel>1</RefSelectChannel>
 							<RefSelectGroup>8</RefSelectGroup>
 							<PAAdaptMode>1</PAAdaptMode>
-							<GOver>0</GOver>
+							<GOver>1</GOver>
 							<SpeechLvl>0</SpeechLvl>
-							<EchoCancel>1</EchoCancel>
+							<EchoCancel>0</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
 							<PushToTalk>0</PushToTalk>
 							<PTTThreshold>-9000</PTTThreshold>
-							<CoarseGain>56</CoarseGain>
+							<CoarseGain>0</CoarseGain>
 							<Filter>
 								<count>0</count>
 								<item_version>0</item_version>
@@ -5367,7 +5840,7 @@
 						<first>14293919858688</first>
 						<second>
 							<Size>225</Size>
-							<Label>RM-B-PROG</Label>
+							<Label></Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
 							<Max>2000</Max>
@@ -5387,10 +5860,10 @@
 								<Attack>200</Attack>
 								<Gain>600</Gain>
 							</AGCValues>
-							<PP>1</PP>
+							<PP>0</PP>
 							<Chairman>0</Chairman>
 							<GRatio>15</GRatio>
-							<GMode>1</GMode>
+							<GMode>3</GMode>
 							<GHold>30</GHold>
 							<OFFA>1200</OFFA>
 							<Decay>2</Decay>
@@ -5402,13 +5875,13 @@
 							<PAAdaptMode>1</PAAdaptMode>
 							<GOver>0</GOver>
 							<SpeechLvl>0</SpeechLvl>
-							<EchoCancel>1</EchoCancel>
+							<EchoCancel>0</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
 							<PushToTalk>0</PushToTalk>
 							<PTTThreshold>-9000</PTTThreshold>
-							<CoarseGain>56</CoarseGain>
+							<CoarseGain>0</CoarseGain>
 							<Filter>
 								<count>0</count>
 								<item_version>0</item_version>
@@ -5419,7 +5892,7 @@
 						<first>14293919924224</first>
 						<second>
 							<Size>225</Size>
-							<Label>RM-C-PROG</Label>
+							<Label></Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
 							<Max>2000</Max>
@@ -5439,7 +5912,7 @@
 								<Attack>200</Attack>
 								<Gain>600</Gain>
 							</AGCValues>
-							<PP>1</PP>
+							<PP>0</PP>
 							<Chairman>0</Chairman>
 							<GRatio>15</GRatio>
 							<GMode>1</GMode>
@@ -5454,13 +5927,13 @@
 							<PAAdaptMode>1</PAAdaptMode>
 							<GOver>0</GOver>
 							<SpeechLvl>0</SpeechLvl>
-							<EchoCancel>1</EchoCancel>
+							<EchoCancel>0</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
 							<PushToTalk>0</PushToTalk>
 							<PTTThreshold>-9000</PTTThreshold>
-							<CoarseGain>56</CoarseGain>
+							<CoarseGain>0</CoarseGain>
 							<Filter>
 								<count>0</count>
 								<item_version>0</item_version>
@@ -5506,7 +5979,7 @@
 							<PAAdaptMode>1</PAAdaptMode>
 							<GOver>0</GOver>
 							<SpeechLvl>0</SpeechLvl>
-							<EchoCancel>1</EchoCancel>
+							<EchoCancel>0</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
@@ -5558,7 +6031,7 @@
 							<PAAdaptMode>1</PAAdaptMode>
 							<GOver>0</GOver>
 							<SpeechLvl>0</SpeechLvl>
-							<EchoCancel>1</EchoCancel>
+							<EchoCancel>0</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
@@ -5610,7 +6083,7 @@
 							<PAAdaptMode>1</PAAdaptMode>
 							<GOver>0</GOver>
 							<SpeechLvl>0</SpeechLvl>
-							<EchoCancel>1</EchoCancel>
+							<EchoCancel>0</EchoCancel>
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
@@ -5624,7 +6097,7 @@
 						</second>
 					</item>
 				</Microphone>
-				<TelcoRx class_id="57" tracking_level="0" version="200">
+				<TelcoRx class_id="61" tracking_level="0" version="200">
 					<Size>136</Size>
 					<Label>Telco RX</Label>
 					<Mute>0</Mute>
@@ -5640,7 +6113,7 @@
 					<HookLength>250</HookLength>
 					<LastSpeedDial>0</LastSpeedDial>
 					<TelcoEnable>0</TelcoEnable>
-					<LastNumber></LastNumber>
+					<LastNumber>916478014646</LastNumber>
 					<LevelControl>1</LevelControl>
 					<LocalNumber></LocalNumber>
 					<ClearEffect>1</ClearEffect>
@@ -5653,17 +6126,17 @@
 					<RingerLvl>0</RingerLvl>
 					<DTMFLvl>0</DTMFLvl>
 					<NC>6</NC>
-					<NCSel>0</NCSel>
+					<NCSel>1</NCSel>
 					<RingCadence>0</RingCadence>
 					<RingOnTime>0</RingOnTime>
 					<RingOffTime>0</RingOffTime>
 				</TelcoRx>
-				<Output class_id="58" tracking_level="0" version="0">
+				<Output class_id="62" tracking_level="0" version="0">
 					<count>13</count>
 					<item_version>0</item_version>
-					<item class_id="59" tracking_level="0" version="0">
+					<item class_id="63" tracking_level="0" version="0">
 						<first>14293735112704</first>
-						<second class_id="60" tracking_level="0" version="200">
+						<second class_id="64" tracking_level="0" version="200">
 							<Size>190</Size>
 							<Label>RM-A-SPRKS</Label>
 							<Mute>0</Mute>
@@ -5922,7 +6395,7 @@
 						</second>
 					</item>
 				</Output>
-				<TelcoTx class_id="61" tracking_level="0" version="200">
+				<TelcoTx class_id="65" tracking_level="0" version="200">
 					<Size>46</Size>
 					<Label>Telco TX</Label>
 					<Mute>0</Mute>
@@ -5931,12 +6404,12 @@
 					<Min>-6500</Min>
 					<NOM>1</NOM>
 				</TelcoTx>
-				<ProcessingChannel class_id="62" tracking_level="0" version="0">
+				<ProcessingChannel class_id="66" tracking_level="0" version="0">
 					<count>8</count>
 					<item_version>0</item_version>
-					<item class_id="63" tracking_level="0" version="0">
+					<item class_id="67" tracking_level="0" version="0">
 						<first>14293768667136</first>
-						<second class_id="64" tracking_level="0" version="200">
+						<second class_id="68" tracking_level="0" version="200">
 							<Size>58</Size>
 							<Label></Label>
 							<Mute>0</Mute>
@@ -5945,7 +6418,7 @@
 							<Min>-6500</Min>
 							<Delay>0</Delay>
 							<DelaySel>0</DelaySel>
-							<Compressor class_id="65" tracking_level="0" version="0">
+							<Compressor class_id="69" tracking_level="0" version="0">
 								<Group>0</Group>
 								<Select>0</Select>
 								<Threshold>0</Threshold>
@@ -6167,12 +6640,12 @@
 						</second>
 					</item>
 				</ProcessingChannel>
-				<Fader class_id="66" tracking_level="0" version="0">
+				<Fader class_id="70" tracking_level="0" version="0">
 					<count>4</count>
 					<item_version>0</item_version>
-					<item class_id="67" tracking_level="0" version="0">
+					<item class_id="71" tracking_level="0" version="0">
 						<first>14294053879808</first>
-						<second class_id="68" tracking_level="0" version="200">
+						<second class_id="72" tracking_level="0" version="200">
 							<Size>45</Size>
 							<Label>RM-A-SPKR-LVL</Label>
 							<Mute>0</Mute>
@@ -6188,7 +6661,7 @@
 							<Label>RM-B-SPKR-LVL</Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
-							<Max>2000</Max>
+							<Max>50</Max>
 							<Min>-6500</Min>
 						</second>
 					</item>
@@ -6199,7 +6672,7 @@
 							<Label>RM-C-SPKR-LVL</Label>
 							<Mute>0</Mute>
 							<Gain>0</Gain>
-							<Max>2000</Max>
+							<Max>50</Max>
 							<Min>-6500</Min>
 						</second>
 					</item>
@@ -6218,45 +6691,45 @@
 			</second>
 		</item>
 	</Units_880T>
-	<Units_880TA class_id="69" tracking_level="0" version="0">
+	<Units_880TA class_id="73" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_880TA>
-	<Units_8i class_id="70" tracking_level="0" version="0">
+	<Units_8i class_id="74" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_8i>
-	<Units_SR1212 class_id="71" tracking_level="0" version="0">
+	<Units_SR1212 class_id="75" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_SR1212>
-	<Units_SR1212A class_id="72" tracking_level="0" version="0">
+	<Units_SR1212A class_id="76" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_SR1212A>
-	<Units_TH20 class_id="73" tracking_level="0" version="0">
+	<Units_TH20 class_id="77" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_TH20>
-	<Units_VH20 class_id="74" tracking_level="0" version="0">
+	<Units_VH20 class_id="78" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_VH20>
-	<Units_BeamFormer class_id="75" tracking_level="0" version="0">
+	<Units_BeamFormer class_id="79" tracking_level="0" version="0">
 		<count>3</count>
 		<item_version>0</item_version>
-		<item class_id="76" tracking_level="0" version="0">
+		<item class_id="80" tracking_level="0" version="0">
 			<first>25288767438848</first>
-			<second class_id="77" tracking_level="0" version="200">
+			<second class_id="81" tracking_level="0" version="200">
 				<UnitValues>
 					<Size>542</Size>
-					<Name>RM-A-MIC</Name>
-					<SerialNo>4294967295</SerialNo>
+					<Name>RM-A-BFM</Name>
+					<SerialNo>72521332</SerialNo>
 					<DeviceID>0</DeviceID>
 					<AudioMaster>2</AudioMaster>
 					<Version>
 						<Major>4</Major>
-						<Minor>4</Minor>
+						<Minor>3</Minor>
 						<Rev>0</Rev>
 					</Version>
 					<TimeOutMeter>
@@ -6287,11 +6760,11 @@
 					<DictionaryVer>9</DictionaryVer>
 					<TelnetEnable>1</TelnetEnable>
 					<TelnetPort>23</TelnetPort>
-					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
+					<RoomString>Conference Rm</RoomString>
+					<HostDSPDate>1.0.4.3</HostDSPDate>
+					<SatDSPDate>1.0.4.3</SatDSPDate>
 					<TelcoDSPDate></TelcoDSPDate>
-					<FPGAVer></FPGAVer>
+					<FPGAVer>2/22/13 01:00</FPGAVer>
 					<CtrlMaster>2</CtrlMaster>
 					<LcdContrast>32</LcdContrast>
 					<AMXDuet>0</AMXDuet>
@@ -6329,7 +6802,7 @@
 					<VlanID>1</VlanID>
 					<MatrixType>0</MatrixType>
 					<NumDigitalMics>0</NumDigitalMics>
-					<GlinkOrder>1</GlinkOrder>
+					<GlinkOrder>2</GlinkOrder>
 					<ProgramStrings>
 						<count>0</count>
 						<item_version>0</item_version>
@@ -11754,10 +12227,10 @@
 						<first>25288901722112</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 1</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -11765,10 +12238,10 @@
 						<first>25288901787648</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 2</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -11776,10 +12249,10 @@
 						<first>25288901853184</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 3</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -11787,10 +12260,10 @@
 						<first>25288901918720</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 4</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -11861,39 +12334,39 @@
 						</second>
 					</item>
 				</GatingGroup>
-				<BFMicUnit class_id="78" tracking_level="0" version="0">
+				<BFMicUnit class_id="82" tracking_level="0" version="0">
 					<Size>2058</Size>
-					<Name></Name>
-					<SerialNo>0</SerialNo>
+					<Name>RM-A-BFM</Name>
+					<SerialNo>72521332</SerialNo>
 					<DeviceID>0</DeviceID>
 					<Version>
 						<Major>4</Major>
-						<Minor>4</Minor>
+						<Minor>3</Minor>
 						<Rev>0</Rev>
 					</Version>
-					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
-					<FPGAVer></FPGAVer>
-					<BlackFinVer_Major>0</BlackFinVer_Major>
+					<RoomString>Conference Rm</RoomString>
+					<HostDSPDate>1.0.4.3</HostDSPDate>
+					<SatDSPDate>1.0.4.3</SatDSPDate>
+					<FPGAVer>2/22/13 01:00</FPGAVer>
+					<BlackFinVer_Major>1</BlackFinVer_Major>
 					<BlackFinVer_Minor>0</BlackFinVer_Minor>
-					<BlackFinVer_Rev>0</BlackFinVer_Rev>
-					<BlackFinVer_Engr>0</BlackFinVer_Engr>
+					<BlackFinVer_Rev>4</BlackFinVer_Rev>
+					<BlackFinVer_Engr>1</BlackFinVer_Engr>
 					<BF_LED>1</BF_LED>
-					<MuteMacroTypeID>0</MuteMacroTypeID>
+					<MuteMacroTypeID>13</MuteMacroTypeID>
 					<MuteMacroDevID>0</MuteMacroDevID>
-					<MuteOnMacro>0</MuteOnMacro>
-					<MuteOffMacro>0</MuteOffMacro>
+					<MuteOnMacro>5</MuteOnMacro>
+					<MuteOffMacro>6</MuteOffMacro>
 				</BFMicUnit>
-				<BFMic class_id="79" tracking_level="0" version="0">
+				<BFMic class_id="83" tracking_level="0" version="0">
 					<count>1</count>
 					<item_version>0</item_version>
-					<item class_id="80" tracking_level="0" version="0">
+					<item class_id="84" tracking_level="0" version="0">
 						<first>25289472147456</first>
-						<second class_id="81" tracking_level="0" version="200">
+						<second class_id="85" tracking_level="0" version="200">
 							<Size>150</Size>
 							<Label>BF Mic 1</Label>
-							<Gain>0</Gain>
+							<Gain>1000</Gain>
 							<Max>2000</Max>
 							<Min>-6500</Min>
 							<Mute>0</Mute>
@@ -11908,7 +12381,7 @@
 							<AdaptiveAmbient>1</AdaptiveAmbient>
 							<HDEchoCancelMode>1</HDEchoCancelMode>
 							<HDEchoCancel>1</HDEchoCancel>
-							<HDRefSelectChannel_1>1</HDRefSelectChannel_1>
+							<HDRefSelectChannel_1>6</HDRefSelectChannel_1>
 							<HDRefSelectGroup_1>8</HDRefSelectGroup_1>
 							<HDRefSelectChannel_2>1</HDRefSelectChannel_2>
 							<HDRefSelectGroup_2>8</HDRefSelectGroup_2>
@@ -11945,13 +12418,13 @@
 			<second>
 				<UnitValues>
 					<Size>542</Size>
-					<Name>RM-B-MIC</Name>
-					<SerialNo>4294967295</SerialNo>
+					<Name>RM-B-BFM</Name>
+					<SerialNo>69621331</SerialNo>
 					<DeviceID>1</DeviceID>
 					<AudioMaster>2</AudioMaster>
 					<Version>
 						<Major>4</Major>
-						<Minor>4</Minor>
+						<Minor>3</Minor>
 						<Rev>0</Rev>
 					</Version>
 					<TimeOutMeter>
@@ -11982,11 +12455,11 @@
 					<DictionaryVer>9</DictionaryVer>
 					<TelnetEnable>1</TelnetEnable>
 					<TelnetPort>23</TelnetPort>
-					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
+					<RoomString>Conference Rm</RoomString>
+					<HostDSPDate>1.0.4.3</HostDSPDate>
+					<SatDSPDate>1.0.4.3</SatDSPDate>
 					<TelcoDSPDate></TelcoDSPDate>
-					<FPGAVer></FPGAVer>
+					<FPGAVer>2/22/13 01:00</FPGAVer>
 					<CtrlMaster>2</CtrlMaster>
 					<LcdContrast>32</LcdContrast>
 					<AMXDuet>0</AMXDuet>
@@ -12024,7 +12497,7 @@
 					<VlanID>1</VlanID>
 					<MatrixType>0</MatrixType>
 					<NumDigitalMics>0</NumDigitalMics>
-					<GlinkOrder>2</GlinkOrder>
+					<GlinkOrder>1</GlinkOrder>
 					<ProgramStrings>
 						<count>0</count>
 						<item_version>0</item_version>
@@ -17449,10 +17922,10 @@
 						<first>25293196689408</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 1</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -17460,10 +17933,10 @@
 						<first>25293196754944</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 2</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -17471,10 +17944,10 @@
 						<first>25293196820480</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 3</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -17482,10 +17955,10 @@
 						<first>25293196886016</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 4</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -17558,22 +18031,22 @@
 				</GatingGroup>
 				<BFMicUnit>
 					<Size>2058</Size>
-					<Name></Name>
-					<SerialNo>0</SerialNo>
+					<Name>RM-B-BFM</Name>
+					<SerialNo>69621331</SerialNo>
 					<DeviceID>1</DeviceID>
 					<Version>
 						<Major>4</Major>
-						<Minor>4</Minor>
+						<Minor>3</Minor>
 						<Rev>0</Rev>
 					</Version>
-					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
-					<FPGAVer></FPGAVer>
-					<BlackFinVer_Major>0</BlackFinVer_Major>
+					<RoomString>Conference Rm</RoomString>
+					<HostDSPDate>1.0.4.3</HostDSPDate>
+					<SatDSPDate>1.0.4.3</SatDSPDate>
+					<FPGAVer>2/22/13 01:00</FPGAVer>
+					<BlackFinVer_Major>1</BlackFinVer_Major>
 					<BlackFinVer_Minor>0</BlackFinVer_Minor>
-					<BlackFinVer_Rev>0</BlackFinVer_Rev>
-					<BlackFinVer_Engr>0</BlackFinVer_Engr>
+					<BlackFinVer_Rev>4</BlackFinVer_Rev>
+					<BlackFinVer_Engr>1</BlackFinVer_Engr>
 					<BF_LED>1</BF_LED>
 					<MuteMacroTypeID>0</MuteMacroTypeID>
 					<MuteMacroDevID>0</MuteMacroDevID>
@@ -17588,7 +18061,7 @@
 						<second>
 							<Size>150</Size>
 							<Label>BF Mic 1</Label>
-							<Gain>0</Gain>
+							<Gain>1000</Gain>
 							<Max>2000</Max>
 							<Min>-6500</Min>
 							<Mute>0</Mute>
@@ -17614,7 +18087,7 @@
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
-							<BFMode>1</BFMode>
+							<BFMode>3</BFMode>
 							<ZoneEnabled>
 								<count>6</count>
 								<item>1</item>
@@ -17640,13 +18113,13 @@
 			<second>
 				<UnitValues>
 					<Size>542</Size>
-					<Name>RM-C-MIC</Name>
-					<SerialNo>4294967295</SerialNo>
+					<Name>RM-C-BFM</Name>
+					<SerialNo>69631331</SerialNo>
 					<DeviceID>2</DeviceID>
 					<AudioMaster>2</AudioMaster>
 					<Version>
 						<Major>4</Major>
-						<Minor>4</Minor>
+						<Minor>3</Minor>
 						<Rev>0</Rev>
 					</Version>
 					<TimeOutMeter>
@@ -17677,11 +18150,11 @@
 					<DictionaryVer>9</DictionaryVer>
 					<TelnetEnable>1</TelnetEnable>
 					<TelnetPort>23</TelnetPort>
-					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
+					<RoomString>Conference Rm</RoomString>
+					<HostDSPDate>1.0.4.3</HostDSPDate>
+					<SatDSPDate>1.0.4.3</SatDSPDate>
 					<TelcoDSPDate></TelcoDSPDate>
-					<FPGAVer></FPGAVer>
+					<FPGAVer>2/22/13 01:00</FPGAVer>
 					<CtrlMaster>2</CtrlMaster>
 					<LcdContrast>32</LcdContrast>
 					<AMXDuet>0</AMXDuet>
@@ -17719,7 +18192,7 @@
 					<VlanID>1</VlanID>
 					<MatrixType>0</MatrixType>
 					<NumDigitalMics>0</NumDigitalMics>
-					<GlinkOrder>3</GlinkOrder>
+					<GlinkOrder>0</GlinkOrder>
 					<ProgramStrings>
 						<count>0</count>
 						<item_version>0</item_version>
@@ -23144,10 +23617,10 @@
 						<first>25297491656704</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 1</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -23155,10 +23628,10 @@
 						<first>25297491722240</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 2</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -23166,10 +23639,10 @@
 						<first>25297491787776</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 3</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -23177,10 +23650,10 @@
 						<first>25297491853312</first>
 						<second>
 							<Size>42</Size>
-							<Label>Group 4</Label>
-							<FirstMicPriority>1</FirstMicPriority>
+							<Label></Label>
+							<FirstMicPriority>0</FirstMicPriority>
 							<LastMic>0</LastMic>
-							<MaxMics>4</MaxMics>
+							<MaxMics>1</MaxMics>
 							<Mode>0</Mode>
 						</second>
 					</item>
@@ -23253,22 +23726,22 @@
 				</GatingGroup>
 				<BFMicUnit>
 					<Size>2058</Size>
-					<Name></Name>
-					<SerialNo>0</SerialNo>
+					<Name>RM-C-BFM</Name>
+					<SerialNo>69631331</SerialNo>
 					<DeviceID>2</DeviceID>
 					<Version>
 						<Major>4</Major>
-						<Minor>4</Minor>
+						<Minor>3</Minor>
 						<Rev>0</Rev>
 					</Version>
-					<RoomString></RoomString>
-					<HostDSPDate></HostDSPDate>
-					<SatDSPDate></SatDSPDate>
-					<FPGAVer></FPGAVer>
-					<BlackFinVer_Major>0</BlackFinVer_Major>
+					<RoomString>Conference Rm</RoomString>
+					<HostDSPDate>1.0.4.3</HostDSPDate>
+					<SatDSPDate>1.0.4.3</SatDSPDate>
+					<FPGAVer>2/22/13 01:00</FPGAVer>
+					<BlackFinVer_Major>1</BlackFinVer_Major>
 					<BlackFinVer_Minor>0</BlackFinVer_Minor>
-					<BlackFinVer_Rev>0</BlackFinVer_Rev>
-					<BlackFinVer_Engr>0</BlackFinVer_Engr>
+					<BlackFinVer_Rev>4</BlackFinVer_Rev>
+					<BlackFinVer_Engr>1</BlackFinVer_Engr>
 					<BF_LED>1</BF_LED>
 					<MuteMacroTypeID>0</MuteMacroTypeID>
 					<MuteMacroDevID>0</MuteMacroDevID>
@@ -23283,7 +23756,7 @@
 						<second>
 							<Size>150</Size>
 							<Label>BF Mic 1</Label>
-							<Gain>0</Gain>
+							<Gain>1000</Gain>
 							<Max>2000</Max>
 							<Min>-6500</Min>
 							<Mute>0</Mute>
@@ -23309,7 +23782,7 @@
 							<NLP>1</NLP>
 							<NC>6</NC>
 							<NCSel>0</NCSel>
-							<BFMode>1</BFMode>
+							<BFMode>3</BFMode>
 							<ZoneEnabled>
 								<count>6</count>
 								<item>1</item>
@@ -23331,15 +23804,15 @@
 			</second>
 		</item>
 	</Units_BeamFormer>
-	<Units_CobraNet class_id="82" tracking_level="0" version="0">
+	<Units_CobraNet class_id="86" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_CobraNet>
-	<Units_Dante class_id="83" tracking_level="0" version="0">
+	<Units_Dante class_id="87" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_Dante>
-	<Units_CT8000 class_id="84" tracking_level="0" version="0">
+	<Units_CT8000 class_id="88" tracking_level="0" version="0">
 		<count>0</count>
 		<item_version>0</item_version>
 	</Units_CT8000>
