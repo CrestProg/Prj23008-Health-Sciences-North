@@ -13697,8 +13697,10 @@ mP=6
 P1=D
 P2=44
 P3=0
-P4=1
-P5=01
+P4=2
+Plb4=Channel 2
+P5=02
+Plb5=Channel 2
 P6=46
 ]
 [
@@ -13731,10 +13733,9 @@ SmVr=1198
 PrH=286
 CF=2
 Cmn1=Mic mute
-mC=3
+mC=2
 C1=295
-C2=296
-C3=297
+C2=297
 ]
 [
 ObjTp=Sm
@@ -13767,44 +13768,11 @@ mP=6
 P1=D
 P2=44
 P3=0
-P4=4
-P5=04
+P4=5
+Plb4=Channel 5
+P5=05
+Plb5=Channel 5
 P6=4F
-]
-[
-ObjTp=Sm
-H=296
-SmC=155
-Nm=ClearOne Converge (Multiple Units) Single Channel Volume Control v1.7.umc
-ObjVer=1
-PrH=294
-CF=2
-n1I=8
-n1O=5
-Cmn1=room_b_telco mic mute\\
-mI=8
-I1=4
-I2=4
-I3=265
-I4=496
-I5=4
-I6=38
-I7=4
-I8=195
-mO=5
-tO=5
-O1=38
-O2=53
-O3=4
-O4=4
-O5=218
-mP=6
-P1=D
-P2=44
-P3=0
-P4=1
-P5=01
-P6=54
 ]
 [
 ObjTp=Sm
@@ -30927,8 +30895,10 @@ mP=6
 P1=D
 P2=44
 P3=0
-P4=1
-P5=01
+P4=3
+Plb4=Channel 3
+P5=03
+Plb5=Channel 3
 P6=46
 ]
 [
@@ -30961,10 +30931,9 @@ SmVr=1198
 PrH=812
 CF=2
 Cmn1=Mic mute
-mC=3
+mC=2
 C1=821
-C2=822
-C3=823
+C2=823
 ]
 [
 ObjTp=Sm
@@ -30997,44 +30966,11 @@ mP=6
 P1=D
 P2=44
 P3=0
-P4=4
-P5=04
+P4=6
+Plb4=Channel 6
+P5=06
+Plb5=Channel 6
 P6=4F
-]
-[
-ObjTp=Sm
-H=822
-SmC=155
-Nm=ClearOne Converge (Multiple Units) Single Channel Volume Control v1.7.umc
-ObjVer=1
-PrH=820
-CF=2
-n1I=8
-n1O=5
-Cmn1=room_c_telco mic mute\\
-mI=8
-I1=4
-I2=4
-I3=1401
-I4=1661
-I5=4
-I6=38
-I7=4
-I8=195
-mO=5
-tO=5
-O1=38
-O2=53
-O3=4
-O4=4
-O5=218
-mP=6
-P1=D
-P2=44
-P3=0
-P4=1
-P5=01
-P6=54
 ]
 [
 ObjTp=Sm
